@@ -1,0 +1,23 @@
+h1{
+    color:rgb(239, 236, 235);
+}
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/04a629fd-c90b-4a18-9a1c-382a50859590/Vinland+Saga+x+Berserk+x+Vagabond);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.navbar{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(250, 249, 249, 0);
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+.navbar a{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(238, 238, 233);
+}
