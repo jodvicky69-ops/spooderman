@@ -34,7 +34,7 @@ body{
     border-radius: 30px;
     width: 150px;
     height: 350px;
-    text-align: center;50
+    text-align: center;
     margin-top: 10px;
     margin-left: auto;
     overflow : hidden;
@@ -46,7 +46,6 @@ body{
     width: 100%;
     border-radius: 30px;
 }
-
 .card button{
     width: 80;
     border-radius: 10px;
